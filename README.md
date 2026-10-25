@@ -65,7 +65,7 @@ Depois disso o ciclo é: **comprar mais máquinas → vender/entregar contratos 
 
 - **Topo:** capital, fios (com limite do armazém), malha, peças de tecido, fibra técnica e os bônus globais (`Vel`, `Prod`, `Custo`).
 - **Esquerda (Estoque):** tudo o que você tem; `Vender` converte produtos finais em capital.
-- **Centro:** botões manuais (Fiar, Tecer, Costurar), `Equipar melhores` e `Pausar`, e o card de cada máquina com a barra de ciclo e os **3 slots de peça** (velocidade, produção, custo).
+- **Centro:** botões manuais (Fiar, Tecer, Costurar) e `Pausar`, e o card de cada máquina com a barra de ciclo e os **3 slots de peça** (velocidade, produção, custo).
 - **Direita:** comprar máquinas. O custo sobe **17% por unidade** comprada.
 
 ### Inventário e Fusão
@@ -241,7 +241,7 @@ Qualidade média sem habilidades: **≈ 43**. A habilidade `qualidade_pct` (Maes
 | T4 | +28,75% | +57,5% |
 | T5 | +50,0% | +100,0% |
 
-Dica: use `Equipar melhores` para preencher os 3 slots de cada máquina com as melhores peças.
+Dica: equipe em cada máquina a melhor peça de cada slot; na aba Inventário, a ordenação "Melhor" mostra as melhores primeiro.
 
 ---
 
